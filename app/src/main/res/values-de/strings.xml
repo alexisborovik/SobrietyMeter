@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">БухУчет</string>
+    <string-array name="titles">
+        <item>Главная</item>
+        <item>Список алкоголя</item>
+        <item>Добавить напиток</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="tips">
+        <item>Вы трезвы как стеклышко, можно немного выпить</item>
+        <item>Вы двигаетесь в правильном направлении</item>
+        <item>Сейчас вы способны на все!</item>
+        <item>Достаточно, больше пить явно не стоит</item>
+        <item>Без шуток! Срочно перестаньте пить!</item>
+    </string-array>
+    <string-array name="progressColors">
+        <item>#3CA0D0</item>
+        <item>#36D986</item>
+        <item>#9FEE00</item>
+        <item>#FFF840</item>
+        <item>#FFB400</item>
+        <item>#FF3500</item>
+    </string-array>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="clear_progress">Очистить прогресс</string>
+    <string name="yes">Да</string>
+    <string name="no">Отмена</string>
+    <string name="add_new_alcohol">Добавить напиток</string>
+    <string name="choose_image">Выберите изображение:</string>
+</resources>
